@@ -1,0 +1,44 @@
+[
+  {
+    "customer_id": "CUST-1001",
+    "first_name": "Sarah",
+    "last_name": "Miller",
+    "phone": "+12125550101",
+    "address": {"line1": "245 Maple Avenue, Apt 4B", "city": "New York", "state": "NY", "zip": "10001"},
+    "usual": [
+      {"sku": "DAI-001", "qty": 1}, {"sku": "DAI-010", "qty": 1}, {"sku": "BAK-002", "qty": 1},
+      {"sku": "PRO-001", "qty": 2}, {"sku": "PRO-004", "qty": 1}, {"sku": "DAI-005", "qty": 1},
+      {"sku": "DAI-003", "qty": 1}, {"sku": "MEA-003", "qty": 2}, {"sku": "BEV-003", "qty": 1}
+    ]
+  },
+  {
+    "customer_id": "CUST-1002",
+    "first_name": "James",
+    "last_name": "Carter",
+    "phone": "+12125550102",
+    "address": {"line1": "18 Orchard Street", "city": "New York", "state": "NY", "zip": "10002"},
+    "usual": []
+  },
+  {
+    "customer_id": "CUST-1003",
+    "first_name": "Priya",
+    "last_name": "Shah",
+    "phone": "+12125550103",
+    "address": {"line1": "77 Clinton Street", "city": "Brooklyn", "state": "NY", "zip": "11201"},
+    "usual": [
+      {"sku": "DAI-002", "qty": 2}, {"sku": "DAI-008", "qty": 1}, {"sku": "BAK-003", "qty": 1},
+      {"sku": "PRO-002", "qty": 3}, {"sku": "PRO-006", "qty": 2}, {"sku": "PRO-007", "qty": 2},
+      {"sku": "MEA-005", "qty": 1}, {"sku": "PAN-001", "qty": 2}, {"sku": "PAN-003", "qty": 1},
+      {"sku": "PAN-006", "qty": 1}, {"sku": "FRO-003", "qty": 1}, {"sku": "BEV-001", "qty": 1},
+      {"sku": "BEV-006", "qty": 1}, {"sku": "HOU-001", "qty": 1}
+    ]
+  },
+  {
+    "customer_id": "CUST-1004",
+    "first_name": "Tom",
+    "last_name": "Nguyen",
+    "phone": "+12125550104",
+    "address": {"line1": "9 Bond Street", "city": "New York", "state": "NY", "zip": "10003"},
+    "usual": []
+  }
+]

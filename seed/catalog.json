@@ -1,0 +1,1399 @@
+[
+ {
+  "sku": "PRO-001",
+  "name": "Bananas",
+  "brand": "FreshMart",
+  "size": "per lb",
+  "unit": "lb",
+  "price": 0.69,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Produce",
+  "tags": [
+   "banana",
+   "fruit"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "PRO-002",
+  "name": "Gala Apples",
+  "brand": "FreshMart",
+  "size": "per lb",
+  "unit": "lb",
+  "price": 1.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Produce",
+  "tags": [
+   "apple",
+   "fruit"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "PRO-003",
+  "name": "Honeycrisp Apples",
+  "brand": "FreshMart",
+  "size": "per lb",
+  "unit": "lb",
+  "price": 2.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Produce",
+  "tags": [
+   "apple",
+   "fruit"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "PRO-004",
+  "name": "Hass Avocados, 4 ct bag",
+  "brand": "FreshMart",
+  "size": "4 ct",
+  "unit": "each",
+  "price": 5.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Produce",
+  "tags": [
+   "avocado"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "PRO-005",
+  "name": "Hass Avocado, single",
+  "brand": "FreshMart",
+  "size": "1 ct",
+  "unit": "each",
+  "price": 1.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Produce",
+  "tags": [
+   "avocado"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "PRO-006",
+  "name": "Baby Spinach",
+  "brand": "Earthbound Farm",
+  "size": "5 oz",
+  "unit": "each",
+  "price": 3.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Produce",
+  "tags": [
+   "spinach",
+   "salad",
+   "greens"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "PRO-007",
+  "name": "Roma Tomatoes",
+  "brand": "FreshMart",
+  "size": "per lb",
+  "unit": "lb",
+  "price": 1.79,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Produce",
+  "tags": [
+   "tomato"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "PRO-008",
+  "name": "Yellow Onions, 3 lb bag",
+  "brand": "FreshMart",
+  "size": "3 lb",
+  "unit": "each",
+  "price": 3.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Produce",
+  "tags": [
+   "onion"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "PRO-009",
+  "name": "Russet Potatoes, 5 lb bag",
+  "brand": "FreshMart",
+  "size": "5 lb",
+  "unit": "each",
+  "price": 4.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Produce",
+  "tags": [
+   "potato",
+   "potatoes"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "PRO-010",
+  "name": "Strawberries",
+  "brand": "Driscoll's",
+  "size": "1 lb",
+  "unit": "each",
+  "price": 4.49,
+  "in_stock": false,
+  "substitute_sku": null,
+  "aisle": "Produce",
+  "tags": [
+   "strawberry",
+   "berries",
+   "fruit"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "DAI-001",
+  "name": "Whole Milk",
+  "brand": "FreshMart",
+  "size": "1 gal",
+  "unit": "each",
+  "price": 4.29,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Dairy and eggs",
+  "tags": [
+   "milk"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "DAI-002",
+  "name": "2% Reduced Fat Milk",
+  "brand": "FreshMart",
+  "size": "1 gal",
+  "unit": "each",
+  "price": 4.29,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Dairy and eggs",
+  "tags": [
+   "milk"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "DAI-003",
+  "name": "Oat Milk Original",
+  "brand": "Oatly",
+  "size": "64 oz",
+  "unit": "each",
+  "price": 5.49,
+  "in_stock": false,
+  "substitute_sku": "DAI-004",
+  "aisle": "Dairy and eggs",
+  "tags": [
+   "oat",
+   "milk",
+   "non-dairy"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "DAI-004",
+  "name": "Oat Milk Original",
+  "brand": "Silk",
+  "size": "64 oz",
+  "unit": "each",
+  "price": 4.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Dairy and eggs",
+  "tags": [
+   "oat",
+   "milk",
+   "non-dairy"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "DAI-005",
+  "name": "Greek Yogurt Plain",
+  "brand": "Chobani",
+  "size": "32 oz",
+  "unit": "each",
+  "price": 6.29,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Dairy and eggs",
+  "tags": [
+   "yogurt",
+   "yoghurt"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "DAI-006",
+  "name": "Greek Yogurt Strawberry",
+  "brand": "Chobani",
+  "size": "5.3 oz",
+  "unit": "each",
+  "price": 1.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Dairy and eggs",
+  "tags": [
+   "yogurt",
+   "yoghurt"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "DAI-007",
+  "name": "Salted Butter",
+  "brand": "Land O Lakes",
+  "size": "1 lb",
+  "unit": "each",
+  "price": 5.79,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Dairy and eggs",
+  "tags": [
+   "butter"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "DAI-008",
+  "name": "Sharp Cheddar Cheese",
+  "brand": "Tillamook",
+  "size": "8 oz",
+  "unit": "each",
+  "price": 4.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Dairy and eggs",
+  "tags": [
+   "cheese",
+   "cheddar"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "DAI-009",
+  "name": "Shredded Mozzarella",
+  "brand": "FreshMart",
+  "size": "8 oz",
+  "unit": "each",
+  "price": 2.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Dairy and eggs",
+  "tags": [
+   "cheese",
+   "mozzarella"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "DAI-010",
+  "name": "Large Eggs",
+  "brand": "FreshMart",
+  "size": "12 ct",
+  "unit": "each",
+  "price": 3.79,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Dairy and eggs",
+  "tags": [
+   "eggs",
+   "dozen",
+   "egg"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "BAK-001",
+  "name": "White Sandwich Bread",
+  "brand": "FreshMart",
+  "size": "20 oz",
+  "unit": "each",
+  "price": 2.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Bakery",
+  "tags": [
+   "bread",
+   "loaf"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "BAK-002",
+  "name": "21 Whole Grains and Seeds Bread",
+  "brand": "Dave's Killer Bread",
+  "size": "27 oz",
+  "unit": "each",
+  "price": 6.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Bakery",
+  "tags": [
+   "bread",
+   "loaf",
+   "whole",
+   "grain"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "BAK-003",
+  "name": "Whole Wheat Bread",
+  "brand": "Nature's Own",
+  "size": "20 oz",
+  "unit": "each",
+  "price": 3.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Bakery",
+  "tags": [
+   "bread",
+   "loaf",
+   "wheat"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "BAK-004",
+  "name": "Plain Bagels, 6 ct",
+  "brand": "Thomas'",
+  "size": "6 ct",
+  "unit": "each",
+  "price": 4.29,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Bakery",
+  "tags": [
+   "bagel",
+   "bagels"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "BAK-005",
+  "name": "English Muffins, 6 ct",
+  "brand": "Thomas'",
+  "size": "6 ct",
+  "unit": "each",
+  "price": 3.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Bakery",
+  "tags": [
+   "muffin",
+   "english",
+   "muffins"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "BAK-006",
+  "name": "Flour Tortillas, 10 ct",
+  "brand": "Mission",
+  "size": "10 ct",
+  "unit": "each",
+  "price": 3.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Bakery",
+  "tags": [
+   "tortilla",
+   "wraps"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "BAK-007",
+  "name": "Butter Croissants, 4 ct",
+  "brand": "FreshMart Bakery",
+  "size": "4 ct",
+  "unit": "each",
+  "price": 5.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Bakery",
+  "tags": [
+   "croissant",
+   "pastry"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "BAK-008",
+  "name": "Hamburger Buns, 8 ct",
+  "brand": "FreshMart",
+  "size": "8 ct",
+  "unit": "each",
+  "price": 2.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Bakery",
+  "tags": [
+   "buns",
+   "burger"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "BAK-009",
+  "name": "Blueberry Muffins, 4 ct",
+  "brand": "FreshMart Bakery",
+  "size": "4 ct",
+  "unit": "each",
+  "price": 5.49,
+  "in_stock": false,
+  "substitute_sku": null,
+  "aisle": "Bakery",
+  "tags": [
+   "muffin",
+   "muffins",
+   "blueberry"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "BAK-010",
+  "name": "Sourdough Loaf",
+  "brand": "FreshMart Bakery",
+  "size": "24 oz",
+  "unit": "each",
+  "price": 5.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Bakery",
+  "tags": [
+   "bread",
+   "sourdough",
+   "loaf"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "MEA-001",
+  "name": "Ground Beef 80/20",
+  "brand": "FreshMart",
+  "size": "per lb",
+  "unit": "lb",
+  "price": 5.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Meat and seafood",
+  "tags": [
+   "beef",
+   "mince",
+   "ground"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "MEA-002",
+  "name": "Ground Turkey 93/7",
+  "brand": "Jennie-O",
+  "size": "1 lb",
+  "unit": "each",
+  "price": 6.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Meat and seafood",
+  "tags": [
+   "turkey",
+   "ground"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "MEA-003",
+  "name": "Chicken Breast, boneless skinless",
+  "brand": "FreshMart",
+  "size": "per lb",
+  "unit": "lb",
+  "price": 5.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Meat and seafood",
+  "tags": [
+   "chicken",
+   "breast"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "MEA-004",
+  "name": "Chicken Thighs, bone-in",
+  "brand": "FreshMart",
+  "size": "per lb",
+  "unit": "lb",
+  "price": 2.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Meat and seafood",
+  "tags": [
+   "chicken",
+   "thighs"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "MEA-005",
+  "name": "Atlantic Salmon Fillet",
+  "brand": "FreshMart",
+  "size": "per lb",
+  "unit": "lb",
+  "price": 11.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Meat and seafood",
+  "tags": [
+   "salmon",
+   "fish"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "MEA-006",
+  "name": "Raw Shrimp, 31-40 ct",
+  "brand": "FreshMart",
+  "size": "1 lb",
+  "unit": "each",
+  "price": 9.99,
+  "in_stock": false,
+  "substitute_sku": "MEA-007",
+  "aisle": "Meat and seafood",
+  "tags": [
+   "shrimp",
+   "prawns",
+   "seafood"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "MEA-007",
+  "name": "Cooked Shrimp, 41-50 ct",
+  "brand": "FreshMart",
+  "size": "1 lb",
+  "unit": "each",
+  "price": 10.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Meat and seafood",
+  "tags": [
+   "shrimp",
+   "prawns",
+   "seafood"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "MEA-008",
+  "name": "Thick Cut Bacon",
+  "brand": "Oscar Mayer",
+  "size": "16 oz",
+  "unit": "each",
+  "price": 7.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Meat and seafood",
+  "tags": [
+   "bacon",
+   "pork"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "MEA-009",
+  "name": "Pork Chops, boneless",
+  "brand": "FreshMart",
+  "size": "per lb",
+  "unit": "lb",
+  "price": 4.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Meat and seafood",
+  "tags": [
+   "pork",
+   "chops"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "MEA-010",
+  "name": "Beef Hot Dogs, 8 ct",
+  "brand": "Hebrew National",
+  "size": "12 oz",
+  "unit": "each",
+  "price": 6.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Meat and seafood",
+  "tags": [
+   "hot",
+   "dogs",
+   "franks"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "PAN-001",
+  "name": "Spaghetti",
+  "brand": "Barilla",
+  "size": "16 oz",
+  "unit": "each",
+  "price": 1.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Pantry",
+  "tags": [
+   "pasta",
+   "spaghetti"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "PAN-002",
+  "name": "Penne",
+  "brand": "Barilla",
+  "size": "16 oz",
+  "unit": "each",
+  "price": 1.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Pantry",
+  "tags": [
+   "pasta",
+   "penne"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "PAN-003",
+  "name": "Marinara Sauce",
+  "brand": "Rao's",
+  "size": "24 oz",
+  "unit": "each",
+  "price": 8.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Pantry",
+  "tags": [
+   "pasta",
+   "sauce",
+   "marinara",
+   "tomato"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "PAN-004",
+  "name": "Long Grain White Rice",
+  "brand": "FreshMart",
+  "size": "5 lb",
+  "unit": "each",
+  "price": 5.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Pantry",
+  "tags": [
+   "rice"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "PAN-005",
+  "name": "Creamy Peanut Butter",
+  "brand": "Jif",
+  "size": "16 oz",
+  "unit": "each",
+  "price": 3.79,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Pantry",
+  "tags": [
+   "peanut",
+   "butter"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "PAN-006",
+  "name": "Cheerios",
+  "brand": "General Mills",
+  "size": "18 oz",
+  "unit": "each",
+  "price": 5.29,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Pantry",
+  "tags": [
+   "cereal",
+   "cheerios"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "PAN-007",
+  "name": "Old Fashioned Oats",
+  "brand": "Quaker",
+  "size": "42 oz",
+  "unit": "each",
+  "price": 6.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Pantry",
+  "tags": [
+   "oats",
+   "oatmeal",
+   "porridge"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "PAN-008",
+  "name": "Extra Virgin Olive Oil",
+  "brand": "California Olive Ranch",
+  "size": "16.9 oz",
+  "unit": "each",
+  "price": 9.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Pantry",
+  "tags": [
+   "olive",
+   "oil"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "PAN-009",
+  "name": "Black Beans",
+  "brand": "Goya",
+  "size": "15.5 oz",
+  "unit": "each",
+  "price": 1.29,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Pantry",
+  "tags": [
+   "beans",
+   "canned"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "PAN-010",
+  "name": "Chicken Noodle Soup",
+  "brand": "Campbell's",
+  "size": "10.75 oz",
+  "unit": "each",
+  "price": 1.79,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Pantry",
+  "tags": [
+   "soup",
+   "canned"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "FRO-001",
+  "name": "Pepperoni Pizza",
+  "brand": "DiGiorno",
+  "size": "27.5 oz",
+  "unit": "each",
+  "price": 8.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Frozen",
+  "tags": [
+   "pizza",
+   "frozen"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "FRO-002",
+  "name": "Mixed Vegetables",
+  "brand": "Birds Eye",
+  "size": "12 oz",
+  "unit": "each",
+  "price": 2.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Frozen",
+  "tags": [
+   "vegetables",
+   "frozen",
+   "veg"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "FRO-003",
+  "name": "Vanilla Ice Cream",
+  "brand": "Breyers",
+  "size": "48 oz",
+  "unit": "each",
+  "price": 5.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Frozen",
+  "tags": [
+   "ice",
+   "cream",
+   "vanilla"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "FRO-004",
+  "name": "Chocolate Ice Cream",
+  "brand": "Ben & Jerry's",
+  "size": "16 oz",
+  "unit": "each",
+  "price": 5.99,
+  "in_stock": false,
+  "substitute_sku": "FRO-005",
+  "aisle": "Frozen",
+  "tags": [
+   "ice",
+   "cream",
+   "chocolate"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "FRO-005",
+  "name": "Chocolate Ice Cream",
+  "brand": "Breyers",
+  "size": "48 oz",
+  "unit": "each",
+  "price": 5.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Frozen",
+  "tags": [
+   "ice",
+   "cream",
+   "chocolate"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "FRO-006",
+  "name": "Breaded Chicken Nuggets",
+  "brand": "Tyson",
+  "size": "32 oz",
+  "unit": "each",
+  "price": 9.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Frozen",
+  "tags": [
+   "chicken",
+   "nuggets",
+   "frozen"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "FRO-007",
+  "name": "Homestyle Waffles, 10 ct",
+  "brand": "Eggo",
+  "size": "12.3 oz",
+  "unit": "each",
+  "price": 3.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Frozen",
+  "tags": [
+   "waffles",
+   "frozen",
+   "breakfast"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "FRO-008",
+  "name": "Frozen Blueberries",
+  "brand": "FreshMart",
+  "size": "16 oz",
+  "unit": "each",
+  "price": 4.29,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Frozen",
+  "tags": [
+   "blueberries",
+   "berries",
+   "frozen",
+   "fruit"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "FRO-009",
+  "name": "French Fries",
+  "brand": "Ore-Ida",
+  "size": "32 oz",
+  "unit": "each",
+  "price": 4.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Frozen",
+  "tags": [
+   "fries",
+   "chips",
+   "potato",
+   "frozen"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "FRO-010",
+  "name": "Cauliflower Rice",
+  "brand": "Green Giant",
+  "size": "10 oz",
+  "unit": "each",
+  "price": 2.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Frozen",
+  "tags": [
+   "cauliflower",
+   "rice",
+   "frozen"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "BEV-001",
+  "name": "Orange Juice, No Pulp",
+  "brand": "Tropicana",
+  "size": "52 oz",
+  "unit": "each",
+  "price": 4.99,
+  "in_stock": false,
+  "substitute_sku": null,
+  "aisle": "Beverages",
+  "tags": [
+   "orange",
+   "juice",
+   "oj"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "BEV-002",
+  "name": "Apple Juice",
+  "brand": "Mott's",
+  "size": "64 oz",
+  "unit": "each",
+  "price": 3.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Beverages",
+  "tags": [
+   "apple",
+   "juice"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "BEV-003",
+  "name": "Spring Water, 24 pack",
+  "brand": "Poland Spring",
+  "size": "24 x 16.9 oz",
+  "unit": "each",
+  "price": 5.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Beverages",
+  "tags": [
+   "water",
+   "bottled"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "BEV-004",
+  "name": "Sparkling Water Lime, 8 pack",
+  "brand": "LaCroix",
+  "size": "8 x 12 oz",
+  "unit": "each",
+  "price": 4.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Beverages",
+  "tags": [
+   "sparkling",
+   "water",
+   "seltzer"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "BEV-005",
+  "name": "Coca-Cola, 12 pack",
+  "brand": "Coca-Cola",
+  "size": "12 x 12 oz",
+  "unit": "each",
+  "price": 7.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Beverages",
+  "tags": [
+   "coke",
+   "soda",
+   "cola"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "BEV-006",
+  "name": "Ground Coffee Medium Roast",
+  "brand": "Starbucks",
+  "size": "12 oz",
+  "unit": "each",
+  "price": 9.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Beverages",
+  "tags": [
+   "coffee"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "BEV-007",
+  "name": "Green Tea, 20 bags",
+  "brand": "Bigelow",
+  "size": "20 ct",
+  "unit": "each",
+  "price": 3.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Beverages",
+  "tags": [
+   "tea",
+   "green"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "BEV-008",
+  "name": "Cold Brew Coffee",
+  "brand": "Stok",
+  "size": "48 oz",
+  "unit": "each",
+  "price": 5.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Beverages",
+  "tags": [
+   "coffee",
+   "cold",
+   "brew",
+   "iced"
+  ],
+  "age_restricted": false,
+  "taxable": false
+ },
+ {
+  "sku": "BEV-009",
+  "name": "Cabernet Sauvignon",
+  "brand": "Woodbridge",
+  "size": "750 ml",
+  "unit": "each",
+  "price": 9.99,
+  "in_stock": false,
+  "substitute_sku": null,
+  "aisle": "Beverages",
+  "tags": [
+   "wine",
+   "red",
+   "alcohol"
+  ],
+  "age_restricted": true,
+  "taxable": false
+ },
+ {
+  "sku": "BEV-010",
+  "name": "Lager Beer, 6 pack",
+  "brand": "Samuel Adams",
+  "size": "6 x 12 oz",
+  "unit": "each",
+  "price": 10.99,
+  "in_stock": false,
+  "substitute_sku": null,
+  "aisle": "Beverages",
+  "tags": [
+   "beer",
+   "alcohol"
+  ],
+  "age_restricted": true,
+  "taxable": false
+ },
+ {
+  "sku": "HOU-001",
+  "name": "Paper Towels, 6 rolls",
+  "brand": "Bounty",
+  "size": "6 ct",
+  "unit": "each",
+  "price": 11.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Household",
+  "tags": [
+   "paper",
+   "towels",
+   "kitchen",
+   "roll"
+  ],
+  "age_restricted": false,
+  "taxable": true
+ },
+ {
+  "sku": "HOU-002",
+  "name": "Toilet Paper, 12 rolls",
+  "brand": "Charmin",
+  "size": "12 ct",
+  "unit": "each",
+  "price": 13.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Household",
+  "tags": [
+   "toilet",
+   "paper",
+   "tissue"
+  ],
+  "age_restricted": false,
+  "taxable": true
+ },
+ {
+  "sku": "HOU-003",
+  "name": "Dish Soap",
+  "brand": "Dawn",
+  "size": "19.4 oz",
+  "unit": "each",
+  "price": 3.99,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Household",
+  "tags": [
+   "dish",
+   "soap",
+   "washing",
+   "up",
+   "liquid"
+  ],
+  "age_restricted": false,
+  "taxable": true
+ },
+ {
+  "sku": "HOU-004",
+  "name": "Laundry Detergent",
+  "brand": "Tide",
+  "size": "92 oz",
+  "unit": "each",
+  "price": 13.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Household",
+  "tags": [
+   "laundry",
+   "detergent"
+  ],
+  "age_restricted": false,
+  "taxable": true
+ },
+ {
+  "sku": "HOU-005",
+  "name": "Trash Bags, 13 gal, 40 ct",
+  "brand": "Glad",
+  "size": "40 ct",
+  "unit": "each",
+  "price": 9.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Household",
+  "tags": [
+   "trash",
+   "bags",
+   "bin",
+   "bags",
+   "garbage"
+  ],
+  "age_restricted": false,
+  "taxable": true
+ },
+ {
+  "sku": "HOU-006",
+  "name": "Aluminum Foil",
+  "brand": "Reynolds",
+  "size": "75 sq ft",
+  "unit": "each",
+  "price": 5.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Household",
+  "tags": [
+   "foil",
+   "aluminium"
+  ],
+  "age_restricted": false,
+  "taxable": true
+ },
+ {
+  "sku": "HOU-007",
+  "name": "Disinfecting Wipes",
+  "brand": "Clorox",
+  "size": "75 ct",
+  "unit": "each",
+  "price": 5.99,
+  "in_stock": false,
+  "substitute_sku": "HOU-008",
+  "aisle": "Household",
+  "tags": [
+   "wipes",
+   "disinfecting",
+   "cleaning"
+  ],
+  "age_restricted": false,
+  "taxable": true
+ },
+ {
+  "sku": "HOU-008",
+  "name": "Disinfecting Wipes",
+  "brand": "Lysol",
+  "size": "80 ct",
+  "unit": "each",
+  "price": 5.79,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Household",
+  "tags": [
+   "wipes",
+   "disinfecting",
+   "cleaning"
+  ],
+  "age_restricted": false,
+  "taxable": true
+ },
+ {
+  "sku": "HOU-009",
+  "name": "Sponges, 6 pack",
+  "brand": "Scotch-Brite",
+  "size": "6 ct",
+  "unit": "each",
+  "price": 4.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Household",
+  "tags": [
+   "sponge",
+   "sponges"
+  ],
+  "age_restricted": false,
+  "taxable": true
+ },
+ {
+  "sku": "HOU-010",
+  "name": "Hand Soap",
+  "brand": "Softsoap",
+  "size": "11.25 oz",
+  "unit": "each",
+  "price": 2.49,
+  "in_stock": true,
+  "substitute_sku": null,
+  "aisle": "Household",
+  "tags": [
+   "hand",
+   "soap"
+  ],
+  "age_restricted": false,
+  "taxable": true
+ }
+]
