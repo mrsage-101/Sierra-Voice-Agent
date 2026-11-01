@@ -195,7 +195,8 @@ def seed():
     # Sarah: upcoming order, always modifiable (slot in 2 days, cutoff tomorrow 10 pm)
     make_order("FM-10421", "CUST-1001",
                [{"sku": "DAI-001", "qty": 1}, {"sku": "DAI-010", "qty": 1}, {"sku": "BAK-002", "qty": 1},
-                {"sku": "PRO-001", "qty": 2}, {"sku": "MEA-003", "qty": 2}, {"sku": "BEV-003", "qty": 1}],
+                {"sku": "PRO-001", "qty": 2}, {"sku": "MEA-003", "qty": 2}, {"sku": "BEV-003", "qty": 1},
+                {"sku": "PRO-004", "qty": 1}],
                today + timedelta(days=2), (14, 16), "placed", created=now() - timedelta(hours=3))
     # Priya: out for delivery today (past cutoff)
     hour = min(max(now().hour, 8), 18)
